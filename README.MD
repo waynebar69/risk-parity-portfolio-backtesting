@@ -91,6 +91,7 @@ regimes.
 ├── data/               # Raw and processed data
 ├── notebooks/          # Jupyter notebooks for analysis and exploration
 └── README.md
+```
 
 ---
 
